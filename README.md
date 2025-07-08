@@ -18,15 +18,6 @@ El sistema de login es una funcionalidad fundamental en cualquier aplicación o 
 Este proceso de autenticación permite verificar la identidad del usuario y garantizar que solo personas autorizadas puedan acceder a ciertas áreas o realizar acciones específicas. Además, puede incluir medidas adicionales de seguridad como la encriptación de contraseñas, gestión de sesiones, protección contra ataques de fuerza bruta y opciones para recuperación de contraseña.
 
 Un buen sistema de login mejora la experiencia del usuario y protege la integridad de la plataforma.
----
-
-### Descripción del Portafolio
-
-Un portafolio personal es una herramienta digital que permite a un profesional mostrar sus habilidades, experiencia, proyectos y certificaciones de manera visual y organizada. Generalmente está compuesto por secciones que describen al individuo, sus conocimientos técnicos, experiencias académicas y laborales, y enlaces a trabajos realizados, como repositorios de código o proyectos web.
-
-El portafolio es fundamental para que un desarrollador o cualquier profesional del área tecnológica pueda presentarse ante reclutadores, clientes o colaboradores, demostrando su capacidad y profesionalismo. Además, suele incluir elementos visuales atractivos, como imágenes, íconos, y un diseño responsive que se adapte a distintos dispositivos.
-
----
 
 ## Explicación de la Documentación
 
